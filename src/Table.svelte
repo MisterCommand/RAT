@@ -1,6 +1,7 @@
 <script>
     import { DataTable, Pagination } from "carbon-components-svelte";
     import rat from './rat.csv';
+    import convert from 'chinese_convert';
 
     let data = rat;
     let page = 1;
@@ -13,6 +14,7 @@
     // Search and Filter
     function filter() {
         search = search.toLowerCase();
+        search = convert.cn2tw(search);
         data = rat.filter((value) => {
             return value.manufacturer.toLowerCase().match(`${search}.*`) || value.product.toLowerCase().match(`${search}.*`) || value.approval.toLowerCase().match(`${search}.*`)
         })

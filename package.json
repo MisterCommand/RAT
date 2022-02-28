@@ -20,6 +20,8 @@
   },
   "dependencies": {
     "@rollup/plugin-dsv": "^2.0.3",
+    "chinese_convert": "^1.0.8",
+    "rollup-plugin-node-builtins": "^2.1.2",
     "sirv-cli": "^2.0.0"
   }
 }
