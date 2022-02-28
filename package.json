@@ -19,7 +19,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "sirv-cli": "^2.0.0",
-    "svelte-csv": "^1.2.8"
+    "@rollup/plugin-dsv": "^2.0.3",
+    "sirv-cli": "^2.0.0"
   }
 }

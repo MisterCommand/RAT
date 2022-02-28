@@ -1,0 +1,312 @@
+﻿type,id,product,manufacturer,approval
+RAT,1,BD Veritor At-Home COVID-19 Test,"Becton, Dickinson and Company (BD)",美國FDA
+RAT,2,BD Veritor System for Rapid Detection of SARS-CoV-2,"Becton, Dickinson and Company (BD)",美國FDA
+RAT,3,BD Veritor System for Rapid Detection of SARS-CoV-2 & Flu A+B,"Becton, Dickinson and Company (BD)",美國FDA
+RAT,4,BinaxNOW COVID-19 Ag 2 Card,"Abbott Diagnostics Scarborough, Inc.",美國FDA
+RAT,5,BinaxNOW COVID-19 Ag Card,"Abbott Diagnostics Scarborough, Inc.",美國FDA
+RAT,6,BinaxNOW COVID-19 Ag Card Home Test,"Abbott Diagnostics Scarborough, Inc.",美國FDA
+RAT,7,BinaxNOW COVID-19 Antigen Self Test,"Abbott Diagnostics Scarborough, Inc.",美國FDA
+RAT,8,CareStart COVID-19 Antigen test,"Access Bio, Inc.",美國FDA
+RAT,9,CareStart COVID-19 Antigen Home Test,"Access Bio, Inc.",美國FDA
+RAT,10,Celltrion DiaTrust COVID-19 Ag Home Test,"Celltrion USA, Inc.",美國FDA
+RAT,11,Celltrion DiaTrust COVID-19 Ag Rapid Test,"Celltrion USA, Inc.",美國FDA
+RAT,12,CLINITEST Rapid COVID-19 Antigen Self-Test,Siemens Healthineers,美國FDA
+RAT,13,Clip COVID Rapid Antigen Test,"Luminostics, Inc.",美國FDA
+RAT,14,COVID-19 At-Home Test,"SD Biosensor, Inc.",美國FDA
+RAT,15,Ellume COVID-19 Home Test,Ellume Limited,美國FDA
+RAT,16,ellume.lab COVID Antigen Test,Ellume Limited,美國FDA
+RAT,17,Flowflex COVID-19 Antigen Home Test,"ACON Laboratories, Inc",美國FDA
+RAT,18,GenBody COVID-19 Ag,GenBody Inc.,美國FDA
+RAT,19,iHealth COVID-19 Antigen Rapid Test,"iHealth Labs, Inc.",美國FDA
+RAT,20,iHealth COVID-19 Antigen Rapid Test Pro,"iHealth Labs, Inc.",美國FDA
+RAT,21,INDICAID COVID-19 Rapid Antigen Test,"PHASE Scientific International, Ltd.",美國FDA
+RAT,22,InteliSwab COVID-19 Rapid Test,"OraSure Technologies, Inc.",美國FDA
+RAT,23,InteliSwab COVID-19 Rapid Test Pro,"OraSure Technologies, Inc.",美國FDA
+RAT,24,InteliSwab COVID-19 Rapid Test Rx,"OraSure Technologies, Inc.",美國FDA
+RAT,25,LIAISON SARS-CoV-2 Ag,"DiaSorin, Inc.",美國FDA
+RAT,26,LumiraDx SARS-CoV-2 Ag Test,LumiraDx UK Ltd.,美國FDA
+RAT,27,MaximBio ClearDetect COVID-19 Antigen Home Test,"Maxim Biomedical, Inc.",美國FDA
+RAT,28,Nano-Check COVID-19 Antigen Test,Nano-Ditech Corp.,美國FDA
+RAT,29,NIDS COVID-19 Antigen Rapid Test Kit 09/24/2021,"ANP Technologies, Inc",美國FDA
+RAT,30,Omnia SARS-CoV-2 Antigen Test,"Qorvo Biotechnologies, LLC.",美國FDA
+RAT,31,QIAreach SARS-CoV-2 Antigen,QIAGEN GmbH,美國FDA
+RAT,32,QuickVue At-Home COVID-19 Test,Quidel Corporation,美國FDA
+RAT,33,QuickVue At-Home OTC COVID-19 Test,Quidel Corporation,美國FDA
+RAT,34,QuickVue SARS Antigen Test,Quidel Corporation,美國FDA
+RAT,35,Sampinute COVID-19 Antigen MIA,"Celltrion USA, Inc.",美國FDA
+RAT,36,SCoV-2 Ag Detect Rapid Self-Test,InBios International Inc.,美國FDA
+RAT,37,SCoV-2 Ag Detect Rapid Test,"InBios International, Inc.",美國FDA
+RAT,38,Sienna-Clarity COVID-19 Antigen Rapid Test Cassette,Salofa Oy,美國FDA
+RAT,39,Simoa SARS-CoV-2 N Protein Antigen Test,Quanterix Corporation,美國FDA
+RAT,40,Sofia 2 Flu + SARS Antigen FIA,Quidel Corporation,美國FDA
+RAT,41,Sofia SARS Antigen FIA,Quidel Corporation,美國FDA
+RAT,42,SPERA COVID-19 Ag Test,Xtrava Health,美國FDA
+RAT,43,Status COVID-19/Flu A&B,Princeton BioMeditech Corp.,美國FDA
+RAT,44,VITROS Immunodiagnostic Products SARS-CoV-2 Antigen Reagent Pack,"Ortho Clinical Diagnostics, Inc.",美國FDA
+RAT,45,Panbio COVID-19 Antigen Self-Test,Abbott Rapid Diagnostics,藥監局 NMPA
+RAT,46,六项呼吸道病毒核酸检测试剂盒（恒温扩增芯片法）,成都博奥晶芯生物科技有限公司,藥監局 NMPA
+RAT,47,新型冠状病毒(2019-nCoV) IgM抗体检测试剂盒(酶联免疫法),珠海丽珠试剂股份有限公司,藥監局 NMPA
+RAT,48,新型冠状病毒（2019-nCoV）IgG抗体检测试剂盒（磁微粒化学发光法）,丹娜（天津）生物科技有限公司,藥監局 NMPA
+RAT,49,新型冠状病毒（2019-nCoV）IgG抗体检测试剂盒（磁微粒化学发光法）,郑州安图生物工程股份有限公司,藥監局 NMPA
+RAT,50,新型冠状病毒（2019-nCoV）IgG抗体检测试剂盒（磁微粒化学发光法）,深圳市亚辉龙生物科技股份有限公司,藥監局 NMPA
+RAT,51,新型冠状病毒（2019-nCoV）IgG抗体检测试剂盒（磁微粒化学发光法） ,博奥赛斯（重庆）生物科技有限公司,藥監局 NMPA
+RAT,52,新型冠状病毒（2019-nCoV）IgG抗体检测试剂盒（化学发光法）,博奥赛斯（天津）生物科技有限公司,藥監局 NMPA
+RAT,53,新型冠状病毒（2019-nCoV）IgG抗体检测试剂盒（化学发光法）,深圳市新产业生物医学工程股份有限公司,藥監局 NMPA
+RAT,54,新型冠状病毒（2019-nCoV）IgG抗体检测试剂盒（胶体金法）,北京新兴四寰生物技术有限公司,藥監局 NMPA
+RAT,55,新型冠状病毒（2019-nCoV）IgG抗体检测试剂盒（直接化学发光法）,迈克生物股份有限公司,藥監局 NMPA
+RAT,56,新型冠状病毒(2019-nCoV)IgM/IgG抗体检测试剂盒(胶体金法),艾维可生物科技有限公司,藥監局 NMPA
+RAT,57,新型冠状病毒（2019-nCoV）IgM/IgG抗体检测试剂盒（胶体金法）,英诺特（唐山）生物技术有限公司,藥監局 NMPA
+RAT,58,新型冠状病毒（2019-nCoV）IgM/IgG抗体检测试剂盒（胶体金法）,南京诺唯赞医疗科技有限公司,藥監局 NMPA
+RAT,59,新型冠状病毒（2019-nCoV）IgM/IgG抗体检测试剂盒（胶体金法）,珠海丽珠试剂股份有限公司,藥監局 NMPA
+RAT,60,新型冠状病毒（2019-nCoV）IgM/IgG抗体检测试剂盒（胶体金法）,浙江东方基因生物制品股份有限公司,藥監局 NMPA
+RAT,61,新型冠状病毒（2019-nCoV）IgM/IgG抗体检测试剂盒（量子点荧光免疫法）,北京金豪制药股份有限公司,藥監局 NMPA
+RAT,62,新型冠状病毒（2019-nCoV）IgM/IgG抗体检测试剂盒（酶联免疫法）,北京华大吉比爱生物技术有限公司,藥監局 NMPA
+RAT,63,新型冠状病毒（2019-nCoV）IgM/IgG抗体检测试剂盒（免疫层析法）,山东康华生物医疗科技股份有限公司,藥監局 NMPA
+RAT,64,新型冠状病毒（2019-nCoV）IgM/IgG抗体检测试剂盒（稀土纳米荧光免疫层析法）,厦门奥德生物科技有限公司,藥監局 NMPA
+RAT,65,新型冠状病毒（2019-nCoV）IgM抗体检测试剂盒（磁微粒化学发光法）,博奥赛斯（重庆）生物科技有限公司,藥監局 NMPA
+RAT,66,新型冠状病毒（2019-nCoV）IgM抗体检测试剂盒（磁微粒化学发光法）,丹娜（天津）生物科技有限公司,藥監局 NMPA
+RAT,67,新型冠状病毒（2019-nCoV）IgM抗体检测试剂盒（磁微粒化学发光法）,郑州安图生物工程股份有限公司,藥監局 NMPA
+RAT,68,新型冠状病毒（2019-nCoV）IgM抗体检测试剂盒（磁微粒化学发光法）,深圳市亚辉龙生物科技股份有限公司,藥監局 NMPA
+RAT,69,新型冠状病毒（2019-nCoV）IgM抗体检测试剂盒（化学发光法）,博奥赛斯（天津）生物科技有限公司,藥監局 NMPA
+RAT,70,新型冠状病毒（2019-nCoV）IgM抗体检测试剂盒（化学发光法）,深圳市新产业生物医学工程股份有限公司,藥監局 NMPA
+RAT,71,新型冠状病毒（2019-nCoV）IgM抗体检测试剂盒（胶体金法）,广东和信健康科技有限公司,藥監局 NMPA
+RAT,72,新型冠状病毒（2019-nCoV）IgM抗体检测试剂盒（胶体金法）,北京新兴四寰生物技术有限公司,藥監局 NMPA
+RAT,73,新型冠状病毒（2019-nCoV）IgM抗体检测试剂盒（直接化学发光法）,迈克生物股份有限公司,藥監局 NMPA
+RAT,74,新型冠状病毒（2019-nCoV）核酸检测试剂盒（CRISPER免疫层析法）,杭州众测生物科技有限公司,藥監局 NMPA
+RAT,75,新型冠状病毒（2019-nCoV）核酸检测试剂盒（荧光PCR法）,上海复星长征医学科学有限公司,藥監局 NMPA
+RAT,76,新型冠状病毒（2019-nCoV）核酸检测试剂盒（荧光RT-RAA法）,江苏奇天基因生物科技有限公司,藥監局 NMPA
+RAT,77,新型冠状病毒（2019-nCoV）抗体检测试剂盒（磁微粒化学发光法）,厦门万泰凯瑞生物技术有限公司,藥監局 NMPA
+RAT,78,新型冠状病毒(2019-nCoV)抗体检测试剂盒（胶体金法）,上海芯超生物科技有限公司,藥監局 NMPA
+RAT,79,新型冠状病毒（2019-nCoV）抗体检测试剂盒（胶体金法）,广州万孚生物技术股份有限公司,藥監局 NMPA
+RAT,80,新型冠状病毒（2019-nCoV）抗体检测试剂盒（上转发光免疫层析法）,北京热景生物技术股份有限公司,藥監局 NMPA
+RAT,81,新型冠状病毒（2019-nCoV）抗原检测试剂盒（胶体金法）,广州万孚生物技术股份有限公司,藥監局 NMPA
+RAT,82,新型冠状病毒（2019-nCoV）抗原检测试剂盒（乳胶法）,北京金沃夫生物工程科技有限公司,藥監局 NMPA
+RAT,83,新型冠状病毒（2019-nCoV）抗原检测试剂盒（荧光免疫层析法）,深圳华大因源医药科技有限公司,藥監局 NMPA
+RAT,84,新型冠状病毒2019-nCoV、甲型流感病毒、乙型流感病毒检测试剂盒（荧光PCR法）,圣湘生物科技股份有限公司,藥監局 NMPA
+RAT,85,新型冠状病毒2019-nCoV和甲型乙型流感病毒核酸联合检测试剂盒（荧光PCR法）,上海思路迪生物医学科技有限公司,藥監局 NMPA
+RAT,86,新型冠状病毒2019-nCoV核酸检测试剂盒( 全集成碟式芯片法),成都博奥晶芯生物科技有限公司,藥監局 NMPA
+RAT,87,新型冠状病毒2019-nCoV核酸检测试剂盒（PCR-荧光探针法）,郑州安图生物工程股份有限公司,藥監局 NMPA
+RAT,88,新型冠状病毒2019-nCoV核酸检测试剂盒（RNA捕获探针法）,上海仁度生物科技有限公司,藥監局 NMPA
+RAT,89,新型冠状病毒2019-nCoV核酸检测试剂盒（RNA恒温扩增-金探针层析法）,武汉中帜生物科技股份有限公司,藥監局 NMPA
+RAT,90,新型冠状病毒2019-nCoV核酸检测试剂盒（恒温CRISPER法）,上海伯杰医疗科技有限公司,藥監局 NMPA
+RAT,91,新型冠状病毒2019-nCoV核酸检测试剂盒（恒温扩增-实时荧光法）,杭州优思达生物技术有限公司,藥監局 NMPA
+RAT,92,新型冠状病毒2019-nCoV核酸检测试剂盒（联合探针锚定聚合测序法）,华大生物科技（武汉）有限公司,藥監局 NMPA
+RAT,93,新型冠状病毒2019-nCoV核酸检测试剂盒（双扩增法）,武汉中帜生物科技股份有限公司,藥監局 NMPA
+RAT,94,新型冠状病毒2019-nCoV核酸检测试剂盒(荧光PCR法),杭州迪安生物技术有限公司,藥監局 NMPA
+RAT,95,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,上海之江生物科技股份有限公司,藥監局 NMPA
+RAT,96,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,上海捷诺生物科技有限公司,藥監局 NMPA
+RAT,97,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,华大生物科技（武汉）有限公司,藥監局 NMPA
+RAT,98,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,中山大学达安基因股份有限公司,藥監局 NMPA
+RAT,99,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,圣湘生物科技股份有限公司,藥監局 NMPA
+RAT,100,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,上海伯杰医疗科技有限公司,藥監局 NMPA
+RAT,101,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,北京卓诚惠生生物科技股份有限公司,藥監局 NMPA
+RAT,102,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,迈克生物股份有限公司,藥監局 NMPA
+RAT,103,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,武汉明德生物科技股份有限公司,藥監局 NMPA
+RAT,104,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,北京金豪制药股份有限公司,藥監局 NMPA
+RAT,105,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,江苏硕世生物科技股份有限公司,藥監局 NMPA
+RAT,106,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,浙江东方基因生物制品股份有限公司,藥監局 NMPA
+RAT,107,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,深圳联合医学科技有限公司,藥監局 NMPA
+RAT,108,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,北京纳捷诊断试剂有限公司,藥監局 NMPA
+RAT,109,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,卡尤迪生物科技宜兴有限公司,藥監局 NMPA
+RAT,110,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,重庆中元汇吉生物技术有限公司,藥監局 NMPA
+RAT,111,新型冠状病毒2019-nCoV核酸检测试剂盒（荧光PCR法）,潮州凯普生物化学有限公司,藥監局 NMPA
+RAT,112,新型冠状病毒2019-nCoV核酸检测试剂盒（杂交捕获免疫荧光法）,安邦（厦门）生物科技有限公司,藥監局 NMPA
+RAT,113,2019-nCoV Ag Rapid Detection Kit (Immuno- Chromatography),"Guangdong Longsee Biomedical Co., Ltd.",歐盟 EU
+RAT,114,2019-nCoV Antigen Test Kit,Chongqing M&D Biotechnology Co. Ltd,歐盟 EU
+RAT,115,2019-nCoV Antigen Test Kit (colloidal gold method),"Guangdong Hecin Scientific, Inc.",歐盟 EU
+RAT,116,Accu-Tell SARS-CoV-2 Ag Cassette,"AccuBioTech Co.,Ltd",歐盟 EU
+RAT,117,AESKU.RAPID SARS- CoV-2,"AESKU.DIAGNOSTICS GmbH & Co, KG",歐盟 EU
+RAT,118,AFIAS COVID-19 Ag,Boditech Med Inc,歐盟 EU
+RAT,119,AMP Rapid Test SARS- CoV-2 Ag,AMEDA Labordiagnostik GmbH,歐盟 EU
+RAT,120,AndLucky COVID-19 Antigen Rapid Test,"Zhejiang Anji Saianfu Biotech Co.., Ltd",歐盟 EU
+RAT,121,Artron COVID-19 Antigen Test,Artron Laboratories Inc.,歐盟 EU
+RAT,122,Asan Easy Test COVID- 19 Ag,"Asan Pharmaceutical Co., Ltd",歐盟 EU
+RAT,123,BD Kit for Rapid Detection of SARS-CoV- 2,Becton Dickinson,歐盟 EU
+RAT,124,BD Veritor™ System for Rapid Detection of SARS CoV 2,Becton Dickinson,歐盟 EU
+RAT,125,Biomerica COVID-19 Antigen Rapid Test (nasopharyngeal swab),Biomerica Inc.,歐盟 EU
+RAT,126,BIOSYNEX COVID-19 Ag BSS,BIOSYNEX SWISS S.A.,歐盟 EU
+RAT,127,BIOSYNEX COVID-19 Ag+ BSS,BIOSYNEX SA,歐盟 EU
+RAT,128,biotical SARS-CoV-2 Ag Card,Biotical Health S.L.U.BIOTICAL HEALTH S.L.U,歐盟 EU
+RAT,129,CAT,Oncosem Onkolojik Sistemler San. ve Tic. A.S.,歐盟 EU
+RAT,130,CerTest SARS-CoV-2 Card test,CerTest Biotec,歐盟 EU
+RAT,131,CHECK UP SARS-COV-2 NASAL ANTIGEN RAPID TEST,Cesna Biyoteknoloji Araştırma Geliştirme Laboratuvar Sist.İnş.Müh.Dan.San.Tic.Ltd.Şti.,歐盟 EU
+RAT,132,CHECK UP SARS-COV-2 NASOPHARYNGEAL RAPID ANTIGEN TEST,Cesna Biyoteknoloji Araştırma Geliştirme Laboratuvar Sist.İnş.Müh.Dan.San.Tic.Ltd.Şti.,歐盟 EU
+RAT,133,CHIL COVID-19 Antigen Rapid Test (Nasopharyngeal / Oropharyngeal Swab- Casette),Chil Tıbbi Malzeme Sanayi ve Ticaret Limited Şirketi,歐盟 EU
+RAT,134,CLINITEST RapidCOVID-19 Antigen Test,Siemens Healthineers,歐盟 EU
+RAT,135,Cora Gentest-19,ABIOTEQ,歐盟 EU
+RAT,136,Coretests COVID-19 Ag Test,"Core Technology Co., Ltd",歐盟 EU
+RAT,137,Corona Virus (COVID- 19) Antigen Rapid Test (Colloidal Gold),"Hoyotek Biomedical Co.,Ltd.",歐盟 EU
+RAT,138,Coronavirus (2019- nCoV)-Antigentest,"Beijing Hotgen Biotech Co., Ltd",歐盟 EU
+RAT,139,Coronavirus (SARS- Cov-2) Antigen Rapid Test Cassette (Nasal swab),Innovation Biotech(Beijing) Co.Ltd,歐盟 EU
+RAT,140,CORONAVIRUS AG RAPID TEST CASSETTE,BIO-RAD,歐盟 EU
+RAT,141,Coronavirus Ag Rapid Test Cassette,Healgen Scientific,歐盟 EU
+RAT,142,Coronavirus Ag Rapid Test Cassette (Swab),"Zhejiang Orient Gene Biotech Co., Ltd",歐盟 EU
+RAT,143,COVID 19 Antigen Test Kit (Colloidal Gold Method),"Neo-nostics (Suzhou) Bioengineering Co., Ltd.",歐盟 EU
+RAT,144,COVID-19 (SARS-CoV-2) Antigen Test Kit (Colloidal Gold),"Anhui Deep Blue Medical Technology Co., Ltd",歐盟 EU
+RAT,145,COVID-19 (SARS-CoV-2) Antigen Test Kit (Colloidal Gold) – Nasal swab,"Anhui Deep Blue Medical Technology Co., Ltd",歐盟 EU
+RAT,146,COVID-19 (SARS-CoV-2) Antigen-Test Kit,"Wuhan EasyDiagnosis Biomedicine Co., Ltd.",歐盟 EU
+RAT,147,COVID-19 Ag Rapid Test Device,"Jiangsu Well Biotech Co., Ltd.",歐盟 EU
+RAT,148,Covid-19 Ag Test,TÜRKLAB TIBBİ MALZEMELER SAN. ve TİC. A.Ş.,歐盟 EU
+RAT,149,COVID-19 Ag Test Kit,Guangdong Wesail Biotech Co. Ltd,歐盟 EU
+RAT,150,COVID-19 Antigen Detection Kit,DNA Diagnostic,歐盟 EU
+RAT,151,COVID-19 Antigen Detection Kit,"New Gene (Hangzhou) Bioengineering Co., Ltd.",歐盟 EU
+RAT,152,COVID-19 Antigen Detection Kit (Colloidal Gold),"Zhuhai Lituo Biotechnology Co., Ltd.",歐盟 EU
+RAT,153,COVID-19 Antigen Rapid Test,AXIOM Gesellschaft für Diagnostica und Biochemica mbH,歐盟 EU
+RAT,154,COVID-19 Antigen Rapid Test,"Beijing O&D Biotech Co., Ltd.",歐盟 EU
+RAT,155,COVID-19 Antigen Rapid Test,"Hangzhou AllTest Biotech Co., Ltd",歐盟 EU
+RAT,156,COVID-19 Antigen Rapid Test Casette,"Hangzhou Clongene Biotech Co., Ltd.",歐盟 EU
+RAT,157,COVID-19 Antigen Rapid Test Cassette (Colloidal Gold),"Jiangsu Diagnostics Biotechnology Co., Ltd",歐盟 EU
+RAT,158,COVID-19 Antigen Rapid Test Cassette (Nasal Swab),"Hangzhou Biotest Biotech Co., Ltd",歐盟 EU
+RAT,159,COVID-19 Antigen Rapid Test Device (Colloidal Gold),Hangzhou Lysun Biotechnology Co. Ltd,歐盟 EU
+RAT,160,COVID19 Antigen Rapid Test Kit,Beijing Kewei Clinical Diagnostic Reagent Inc,歐盟 EU
+RAT,161,Covid-19 Antigen Rapid Test Kit,"Hangzhou Clongene Biotech Co., Ltd.",歐盟 EU
+RAT,162,COVID-19 Antigen Rapid Test Kit,"Nantong Egens Biotechnology Co.,Ltd",歐盟 EU
+RAT,163,COVID-19 Antigen Rapid Test Kit (Colloidal Gold),"Xiamen AmonMed Biotechnology Co., Ltd",歐盟 EU
+RAT,164,COVID-19 Antigen Rapid Test Kit (Swab),Safecare Biotech (Hangzhou) Co. Ltd,歐盟 EU
+RAT,165,Covid-19 Antigen Schnelltest (Colloidales Gold),IEDAU INTERNATIONAL GMBH,歐盟 EU
+RAT,166,COVID-19 Antigen Test Cassette,"Hangzhou DIAN Biotechnology Co., Ltd.",歐盟 EU
+RAT,167,Covid-19 Antigen Test Cassette,"Hangzhou Testsea Biotechnology Co., Ltd.",歐盟 EU
+RAT,168,COVID-19 Antigen Test Kit,Surge Medical Inc.,歐盟 EU
+RAT,169,COVID-19 Antigen Test Kit (Colloidal Gold),LINKCARE (NANTONG DIAGNOS BIO),歐盟 EU
+RAT,170,COVID-19 Rapid Antigen Test (Colloidal Gold),Joinstar Biomedical Technology Co. Ltd,歐盟 EU
+RAT,171,COVID-19/Influenza A+B Antigen Combo Rapid Test,"Hangzhou Clongene Biotech Co., Ltd.",歐盟 EU
+RAT,172,Covid19Check-NAS,Multi-G bvba,歐盟 EU
+RAT,173,COVID19Speed- Antigen Test BSD_0503,BioSpeedia International,歐盟 EU
+RAT,174,CoviGnost AG Test Device 1x20,BioGnost Ltd,歐盟 EU
+RAT,175,COVIOS Ag COVID-19Antigen Rapid Diagnostic Test,Mologic Ltd,歐盟 EU
+RAT,176,Dräger Antigen Test SARS-CoV-2,Dräger Safety AG & Co. KGaA,歐盟 EU
+RAT,177,Dynamiker SARS-CoV-2 Ag Rapid Test,"Dynamiker Biotechnolgy(Tianjin) Co., Ltd.",歐盟 EU
+RAT,178,EBS SARS-CoV-2 AgRapid Test,Eurobio Scientific,歐盟 EU
+RAT,179,ECOTEST COVID-19Antigen Rapid Test Device,"Assure Tech. (Hangzhou) Co., Ltd.",歐盟 EU
+RAT,180,Edinburgh Genetics ActivXpress+ COVID-19 Antigen Complete Testing Kit,Edinburgh Genetics Limited,歐盟 EU
+RAT,181,ENCODE SARS-COV-2Antigen Rapid Test Device,"Zhuhai Encode Medical Engineering Co.,Ltd",歐盟 EU
+RAT,182,ESPLINE SARS-CoV-2,Fujirebio,歐盟 EU
+RAT,183,Exdia COVI-19 Ag,Precision Biosensor Inc.,歐盟 EU
+RAT,184,Flowflex SARS-CoV-2 Antigen Rapid Test,"Acon Biotech (Hangzhou) Co., Ltd",歐盟 EU
+RAT,185,Flowflex SARS-CoV-2 Antigen Rapid Test,"ACON Laboratories, Inc.",歐盟 EU
+RAT,186,Flowflex SARS-CoV-2 Antigen Rapid Test (Nasal/Saliva),"ACON Biotech(Hangzhou) Co., Ltd.",歐盟 EU
+RAT,187,FREND COVID-19 Ag,NanoEntek,歐盟 EU
+RAT,188,GA CoV-2 Antigen Rapid Test,GA Generic Assays GmbH,歐盟 EU
+RAT,189,GENEDIA W COVID-19Ag,Green Cross Medical Science Corp.,歐盟 EU
+RAT,190,GeneFinder COVID-19 Ag Plus Rapid Test,"OSANG Healthcare Co., Ltd.",歐盟 EU
+RAT,191,GenSure COVID-19 Antigen Rapid Test Kit,GenSure Biotech Inc,歐盟 EU
+RAT,192,GenSure COVID-19 Antigen Rapid Test Kit,GenSure Biotech Inc.,歐盟 EU
+RAT,193,GLINE-2019-nCoV Ag,"Shenzhen YHLO Biotech Co., Ltd.",歐盟 EU
+RAT,194,Green Spring SARS- CoV-2 Antigen-Rapid test-Set,"Shenzhen Lvshiyuan Biotechnology Co., Ltd.",歐盟 EU
+RAT,195,H+W_COVID-19Antigen Rapid Test Kit (Colloidal Gold),Jiangsu Konsung Bio-Medical Science and Technology Co.,歐盟 EU
+RAT,196,Humasis COVID-19 Ag Test,Humasis,歐盟 EU
+RAT,197,Immunobio SARS-CoV- 2 Antigen ANTERIOR NASAL Rapid Test Kit (minimal invasive),"Hangzhou Immuno Biotech Co., Ltd",歐盟 EU
+RAT,198,INFO Covid-19 Ag Test,TÜRKLAB TIBBİ MALZEMELER SAN. ve TİC. A.Ş.,歐盟 EU
+RAT,199,Innova SARS-CoV-2 Antigen Rapid Qualitative Test,Innova Medical Group.Inc,歐盟 EU
+RAT,200,Ksmart® SARS-COV2 Antigen Rapid Test,Avalun,歐盟 EU
+RAT,201,LIAISON® Quick Detect Covid Ag Assay,"Rapid Pathogen Screening, Inc",歐盟 EU
+RAT,202,LumiraDx SARS-CoV-2 Ag Test,LumiraDX,歐盟 EU
+RAT,203,LYHER Novel Coronavirus (COVID- 19) Antigen Test Kit (Colloidal Gold),Hangzhou Laihe Biotech Co.,歐盟 EU
+RAT,204,MARESKIT COVID-19 ANTIGEN RAPID TEST KIT,NESAPOR EUROPA SL,歐盟 EU
+RAT,205,mariPOC Quick Flu+,ArcDia International Oy Ltd,歐盟 EU
+RAT,206,mariPOC Respi+,ArcDia International Oy Ltd,歐盟 EU
+RAT,207,mariPOC SARS-CoV-2,ArcDia International Ltd,歐盟 EU
+RAT,208,MEDsan SARS-CoV-2Antigen Rapid Test,MEDsan GmbH,歐盟 EU
+RAT,209,MEXACARE COVID-19Antigen Rapid Test,MEXACARE GmbH,歐盟 EU
+RAT,210,mö-screen Corona Antigen Test,möLab,歐盟 EU
+RAT,211,Multi-Respiratory Virus Antigen Test Kit (Swab) (Influenza A+B/COVID- 19),Safecare Biotech (Hangzhou) Co. Ltd,歐盟 EU
+RAT,212,NADAL COVID -19 Ag+Influenza A/B Test,Nal von minden GmbH,歐盟 EU
+RAT,213,NADAL COVID -19 AgTest,Nal von minden GmbH,歐盟 EU
+RAT,214,NanoRepro SARS-CoV- 2 Antigen Rapid Test,NanoRepro AG,歐盟 EU
+RAT,215,New Coronavirus (COVID-19) Antigen Rapid Test,"Anhui Formaster Biosci Co., Ltd.",歐盟 EU
+RAT,216,Ninonasal,NG Biotech,歐盟 EU
+RAT,217,Novel Corona Virus (SARS-CoV-2) Ag Rapid Test Kit,"Jiangsu Bioperfectus Technologies Co., Ltd.",歐盟 EU
+RAT,218,Novel Coronavirus (2019-nCoV) Antigen Test Kit (Colloidal gold immunochromatograp hy),"Glallergen CO., LTD.",歐盟 EU
+RAT,219,Novel Coronavirus (2019-nCoV) Antigen Testing Kit (Colloidal Gold),"Nanjing Norman Biological Technology Co., Ltd.",歐盟 EU
+RAT,220,Novel Coronavirus (COVID-19) Antigen Detection Kit (Swab),"Zhejiang GENE SCIENCE Co., Ltd",歐盟 EU
+RAT,221,Novel Coronavirus (SARS-CoV-2) Antigen Rapid Test Kit,"Beijing Jinwofu Bioengineering Technology Co.,Ltd.",歐盟 EU
+RAT,222,Novel Coronavirus 2019-nCoV Antigen Test (Colloidal Gold),"Beijing Hotgen Biotech Co., Ltd",歐盟 EU
+RAT,223,NowCheck COVID-19 Ag Test,BIONOTE,歐盟 EU
+RAT,224,One Step Test for SARS-CoV-2 Antigen (Colloidal Gold),"Getein Biotech, Inc.",歐盟 EU
+RAT,225,OnSite COVID-19 Ag Rapid Test,"CTK Biotech, Inc",歐盟 EU
+RAT,226,Pantest Coronavirus Ag (Nasopharyngeal Swab),Pantest SA,歐盟 EU
+RAT,227,PCL COVID19 Ag Gold,PCL Inc.,歐盟 EU
+RAT,228,PCL COVID19 Ag Rapid FIA,PCL Inc.,歐盟 EU
+RAT,229,PocRoc® SARS-CoV-2 Antigen Rapid Test Kit (Colloidal Gold),"Lumigenex (Suzhou) Co., Ltd",歐盟 EU
+RAT,230,QuickProfile™ COVID- 19 Antigen Test,LumiQuick Diagnostics Inc.,歐盟 EU
+RAT,231,Rapid COVID-19 Antigen-Test (colloidal Gold),"Anbio (Xiamen) Biotechnology Co., Ltd",歐盟 EU
+RAT,232,Rapid Response COVID-19 Antigen Rapid Test,BTNX Inc,歐盟 EU
+RAT,233,Rapid SARS-CoV-2 Antigen Test (nasopharyngeal specimen),"InTec PRODUCTS, INC.",歐盟 EU
+RAT,234,Rapid SARS-CoV-2 Antigen Test Card,MP Biomedicals,歐盟 EU
+RAT,235,Rapid SARS-CoV-2 Antigen Test Card,Xiamen Boson Biotech Co. Ltd,歐盟 EU
+RAT,236,Rapid Test Ag 2019- nCov,Prognosis Biotech,歐盟 EU
+RAT,237,RAPIDAN TESTERCovid-19 Ag Test,TÜRKLAB TIBBİ MALZEMELER SAN. ve TİC. A.Ş.,歐盟 EU
+RAT,238,RapidFor SARS-CoV-2 Rapid Ag Test,"Vitrosens Biotechnology Co., Ltd",歐盟 EU
+RAT,239,Redtest Professional Sars-CoV-2 Antigen Rapid Test (Covid-19 Ag),Sigmed Sp. z o.o.,歐盟 EU
+RAT,240,reOpenTest COVID-19 Antigen Rapid Test,"Zhejiang Anji Saianfu Biotech Co.., Ltd",歐盟 EU
+RAT,241,SARS-CoV-2 Ag Rapid Test,BioMaxima SA,歐盟 EU
+RAT,242,SARS-CoV-2 AgDiagnostic Test Kit (Colloidal Gold),"Shenzhen Watmind Medical Co., Ltd",歐盟 EU
+RAT,243,SARS-CoV-2 AgDiagnostic Test Kit (Immuno-fluorescence),"Shenzhen Watmind Medical Co., Ltd",歐盟 EU
+RAT,244,SARS-CoV-2 Antigen (Colloidal Gold),"Getein Biotech, Inc",歐盟 EU
+RAT,245,SARS-CoV-2 Antigen Assay Kit (Immuno- chromatography),"Wuhan Life Origin Biotech Joint Stock Co., Ltd.",歐盟 EU
+RAT,246,SARS-CoV-2 Antigen Detection Kit (Colloidal Gold Immunochromato- graphic Assay),"PerGrande Bio Tech Development Co., Ltd.",歐盟 EU
+RAT,247,SARS-CoV-2 antigen IVD kit SWAB,"Shenzhen Reagent Technology Co.,Ltd.",歐盟 EU
+RAT,248,SARS-CoV-2 Antigen Kit (Colloidal Gold),Goldsite Diagnostic Inc.,歐盟 EU
+RAT,249,SARS-CoV-2 Antigen Rapid Detection Kit (Colloidal Gold Method),"JINAN BABIO BIOTECHNOLOGY CO., LTD., China",歐盟 EU
+RAT,250,SARS-CoV2 Antigen Rapid Test,"Hangzhou Immuno Biotech Co., Ltd",歐盟 EU
+RAT,251,SARS-CoV-2 Antigen Rapid Test,DNA Diagnostic,歐盟 EU
+RAT,252,SARS-CoV-2 Antigen Rapid Test,Novatech,歐盟 EU
+RAT,253,SARS-CoV-2 Antigen Rapid Test,"Xiamen Wiz Biotech Co., Ltd",歐盟 EU
+RAT,254,SARS-CoV-2 Antigen Rapid Test (Colloidal Gold Method),"Biohit Healthcare (Hefei) Co., Ltd.",歐盟 EU
+RAT,255,SARS-CoV-2 Antigen Rapid Test (Colloidal Gold),"Xiamen Wiz Biotech Co., Ltd",歐盟 EU
+RAT,256,SARS-CoV-2 Antigen Rapid Test (Immunochromatograp hy),Qingdao Hightop Biotech Co. Ltd,歐盟 EU
+RAT,257,SARS-CoV-2 Antigen Rapid Test Cassette,Hangzhou Sejoy Electronics & Instruments Co.Ltd,歐盟 EU
+RAT,258,SARS-CoV-2 Antigen Rapid Test Cassette,"Merlin Biomedical (Xiamen) Co., Ltd.",歐盟 EU
+RAT,259,SARS-CoV-2 Antigen Rapid Test Kit,"Beijing Lepu Medical Technology Co., Ltd",歐盟 EU
+RAT,260,SARS-CoV-2 Antigen Rapid Test Kit,Labnovation Technologies Inc.,歐盟 EU
+RAT,261,SARS-CoV-2 Antigen Rapid Test Kit,"Triplex International Biosciences(China) Co., Ltd",歐盟 EU
+RAT,262,SARS-CoV-2 Antigen Rapid Test Kit,"Triplex International Biosciences Co., Ltd, China",歐盟 EU
+RAT,263,SARS-CoV-2 Antigen Rapid Test Kit,"Wuhan UNscience Biotechnology Co., Ltd.",歐盟 EU
+RAT,264,SARS-CoV-2 Antigen Rapid Test Kit (Colloidal Gold immunochromatograp hy),"JOYSBIO (Tianjin) Biotechnology Co., Ltd.",歐盟 EU
+RAT,265,SARS-CoV-2 Antigen Rapid Test Kit (Fluorescence Immunochromato- graphy),"Biohit Healthcare (Hefei) Co., Ltd.",歐盟 EU
+RAT,266,SARS-CoV-2 Antigen Test Cassette,"Jiangsu Mole Bioscience CO., LTD.",歐盟 EU
+RAT,267,SARS-CoV-2 Antigen Test Kit,"Hubei Jinjian Biology Co., Ltd",歐盟 EU
+RAT,268,SARS-CoV-2 Antigen Test Kit,"Shenzen Ultra-Diagnostics Biotec Co., Ltd",歐盟 EU
+RAT,269,SARS-CoV-2 Antigen Test Kit (Colloidal Gold Chromatographic Immunoassay),"Shenzhen Microprofit Biotech Co., Ltd",歐盟 EU
+RAT,270,SARS-CoV-2 Antigen Test Kit (colloidal gold method),"BIOTEKE CORPORATION (WUXI) CO., LTD",歐盟 EU
+RAT,271,SARS-CoV-2 Antigen Test Kit (Colloidal Gold),Genrui Biotech Inc,歐盟 EU
+RAT,272,SARS-CoV-2 Antigen Test Kit (Colloidal Gold),"Shenzhen Dymind Biotechnology Co., Ltd",歐盟 EU
+RAT,273,SARS-CoV-2 Antigen Test Kit (Colloidal Gold),"Shenzhen Huian Biosci Technology Co., Ltd.",歐盟 EU
+RAT,274,SARS-CoV-2 Antigen Test Kit (GICA),"Shenzhen Kisshealth Biotechnology Co., Ltd",歐盟 EU
+RAT,275,SARS-CoV-2 Antigen Test Kit (Lateral Flow Assay),"Wuxi Biohermes Bio & Medical Technology Co., Ltd.",歐盟 EU
+RAT,276,SARS-CoV-2 antigen Test Kit (LFIA),"Jiangsu Medomics medical technology Co.,Ltd.",歐盟 EU
+RAT,277,SARS-CoV-2 Rapid Antigen Test,Roche (SD BIOSENSOR),歐盟 EU
+RAT,278,SARS-CoV-2 Rapid Antigen Test (Colloidal Gold Method),Sansure Biotech Inc,歐盟 EU
+RAT,279,SARS-CoV-2 Rapid Antigen Test Cassette,SureScreen Diagnostics,歐盟 EU
+RAT,280,SARS-CoV-2 Rapid Antigen Test Nasal,Roche (SD BIOSENSOR),歐盟 EU
+RAT,281,SARS-CoV-2 Spike Protein Test Kit (Colloidal Gold Chromatographic Immunoassay),"Shenzhen Microprofit Biotech Co., Ltd.",歐盟 EU
+RAT,282,SARS-CoV-2 Spike Protein Test Kit (Fluorescence Immunoassay),"Shenzhen Microprofit Biotech Co., Ltd",歐盟 EU
+RAT,283,SARS-CoV-2/FluA+B/RSV Antigen Rapid Test,"Qingdao Hightop Biotech Co., Ltd.",歐盟 EU
+RAT,284,SARS-CoV-2-Antigen Rapid Detection Kit,"Shenzhen CAS-Envision Medical Technology Co., Ltd.",歐盟 EU
+RAT,285,SARS-COV-2Nucleocapsid (N) Antigen Rapid Detection Kit (Colloidalgold method),"Nanjing Synthgene Medical Technology Co., Ltd.",歐盟 EU
+RAT,286,ScheBo SARS CoV-2 Quick Antigen,ScheBo Biotech,歐盟 EU
+RAT,287,ScheBo SARS CoV-2 Quick ANTIGEN (Colloidal Gold Method),ScheBo Biotech,歐盟 EU
+RAT,288,SGTi-flex COVID-19 Ag,"Sugentech, Inc.",歐盟 EU
+RAT,289,Sofia SARS Antigen FIA,Quidel Corporation,歐盟 EU
+RAT,290,STANDARD F COVID-19 Ag FIA,SD BIOSENSOR Inc.,歐盟 EU
+RAT,291,STANDARD Q COVID-19 Ag Test,SD BIOSENSOR Inc.,歐盟 EU
+RAT,292,STANDARD Q COVID-19 Ag Test Nasal,SD Biosensor Inc,歐盟 EU
+RAT,293,StrongStep® SARS-CoV- 2 Antigen Rapid Test,"Nanjing Liming Bio-Products Co., Ltd.",歐盟 EU
+RAT,294,Test Rapid Covid-19 Antigen (tampon nazofaringian),DDS DIAGNOSTIC,歐盟 EU
+RAT,295,TestNOW® - COVID-19Antigen Test,Affimedix Inc.,歐盟 EU
+RAT,296,TODA CORONADIAG Ag,TODA PHARMA,歐盟 EU
+RAT,297,TOYO Covid-19 Ag Tes,TÜRKLAB TIBBİ MALZEMELER SAN. ve TİC. A.Ş.,歐盟 EU
+RAT,298,V-Chek SARS-CoV-2 AgRapid Test Kit (Colloidal Gold),SGA Medikal,歐盟 EU
+RAT,299,V-Chek SARS-CoV-2Rapid Ag Test (colloidal gold),SGA Medikal,歐盟 EU
+RAT,300,Verino Pro SARS CoV 2 Ag Rapid Test,"VivaChek Biotech (Hangzhou) Co., Ltd, China",歐盟 EU
+RAT,301,Virusee® SARS-CoV-2 Antigen Rapid Test (Colloidal Gold),"Genobio Pharmaceutical Co., Ltd.",歐盟 EU
+RAT,302,Wantai SARS-CoV-2 Ag Rapid Test (colloidal gold),"Beijing Wantai Biological Pharmacy Enterprise Co., Ltd",歐盟 EU
+RAT,303,Wondfo 2019-nCoV Antigen Test (Lateral Flow Method),"Guangzhou Wondfo Biotech Co., Ltd",歐盟 EU
+RAT,304,Zhenrui ®COVID-19 Antigen Test Cassette,"Shenzhen Zhenrui Biotech Co., Ltd",歐盟 EU
+RAT,305,AESKU.RAPID SARS-CoV-2,AESKU.Diagnostics,衛生署 DOH
+RAT,306,COVID-19 Antigen Test Cassette (Nasopharyngeal Swab),Hangzhou AllTest Biotech (FIATest),衛生署 DOH
+RAT,307,Panbio™ COVID-19 Ag Rapid Test,Abbott Rapid Diagnostics,衛生署 DOH
+RAT,308,SARS-CoV-2 Antigen Rapid Test (Nasal Swab),Hangzhou AllTest Biotech (ALLTest),衛生署 DOH
+RAT,309,SARS-CoV-2 Antigen Self Test Nasal,SD Biosensor (Roche),衛生署 DOH
+RAT,310,SARS-CoV-2 Rapid Antigen Test Nasal,SD Biosensor (Roche),衛生署 DOH
+RAT,311,SARS-CoV-2 Virus Antigen Detection Kit (colloidal gold method),BGI,衛生署 DOH
