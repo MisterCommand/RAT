@@ -1,48 +1,48 @@
 ﻿type,id,product,manufacturer,approval
-RAT,1,BD Veritor At-Home COVID-19 Test,"Becton, Dickinson and Company (BD)",美國FDA
-RAT,2,BD Veritor System for Rapid Detection of SARS-CoV-2,"Becton, Dickinson and Company (BD)",美國FDA
-RAT,3,BD Veritor System for Rapid Detection of SARS-CoV-2 & Flu A+B,"Becton, Dickinson and Company (BD)",美國FDA
-RAT,4,BinaxNOW COVID-19 Ag 2 Card,"Abbott Diagnostics Scarborough, Inc.",美國FDA
-RAT,5,BinaxNOW COVID-19 Ag Card,"Abbott Diagnostics Scarborough, Inc.",美國FDA
-RAT,6,BinaxNOW COVID-19 Ag Card Home Test,"Abbott Diagnostics Scarborough, Inc.",美國FDA
-RAT,7,BinaxNOW COVID-19 Antigen Self Test,"Abbott Diagnostics Scarborough, Inc.",美國FDA
-RAT,8,CareStart COVID-19 Antigen test,"Access Bio, Inc.",美國FDA
-RAT,9,CareStart COVID-19 Antigen Home Test,"Access Bio, Inc.",美國FDA
-RAT,10,Celltrion DiaTrust COVID-19 Ag Home Test,"Celltrion USA, Inc.",美國FDA
-RAT,11,Celltrion DiaTrust COVID-19 Ag Rapid Test,"Celltrion USA, Inc.",美國FDA
-RAT,12,CLINITEST Rapid COVID-19 Antigen Self-Test,Siemens Healthineers,美國FDA
-RAT,13,Clip COVID Rapid Antigen Test,"Luminostics, Inc.",美國FDA
-RAT,14,COVID-19 At-Home Test,"SD Biosensor, Inc.",美國FDA
-RAT,15,Ellume COVID-19 Home Test,Ellume Limited,美國FDA
-RAT,16,ellume.lab COVID Antigen Test,Ellume Limited,美國FDA
-RAT,17,Flowflex COVID-19 Antigen Home Test,"ACON Laboratories, Inc",美國FDA
-RAT,18,GenBody COVID-19 Ag,GenBody Inc.,美國FDA
-RAT,19,iHealth COVID-19 Antigen Rapid Test,"iHealth Labs, Inc.",美國FDA
-RAT,20,iHealth COVID-19 Antigen Rapid Test Pro,"iHealth Labs, Inc.",美國FDA
-RAT,21,INDICAID COVID-19 Rapid Antigen Test,"PHASE Scientific International, Ltd.",美國FDA
-RAT,22,InteliSwab COVID-19 Rapid Test,"OraSure Technologies, Inc.",美國FDA
-RAT,23,InteliSwab COVID-19 Rapid Test Pro,"OraSure Technologies, Inc.",美國FDA
-RAT,24,InteliSwab COVID-19 Rapid Test Rx,"OraSure Technologies, Inc.",美國FDA
-RAT,25,LIAISON SARS-CoV-2 Ag,"DiaSorin, Inc.",美國FDA
-RAT,26,LumiraDx SARS-CoV-2 Ag Test,LumiraDx UK Ltd.,美國FDA
-RAT,27,MaximBio ClearDetect COVID-19 Antigen Home Test,"Maxim Biomedical, Inc.",美國FDA
-RAT,28,Nano-Check COVID-19 Antigen Test,Nano-Ditech Corp.,美國FDA
-RAT,29,NIDS COVID-19 Antigen Rapid Test Kit 09/24/2021,"ANP Technologies, Inc",美國FDA
-RAT,30,Omnia SARS-CoV-2 Antigen Test,"Qorvo Biotechnologies, LLC.",美國FDA
-RAT,31,QIAreach SARS-CoV-2 Antigen,QIAGEN GmbH,美國FDA
-RAT,32,QuickVue At-Home COVID-19 Test,Quidel Corporation,美國FDA
-RAT,33,QuickVue At-Home OTC COVID-19 Test,Quidel Corporation,美國FDA
-RAT,34,QuickVue SARS Antigen Test,Quidel Corporation,美國FDA
-RAT,35,Sampinute COVID-19 Antigen MIA,"Celltrion USA, Inc.",美國FDA
-RAT,36,SCoV-2 Ag Detect Rapid Self-Test,InBios International Inc.,美國FDA
-RAT,37,SCoV-2 Ag Detect Rapid Test,"InBios International, Inc.",美國FDA
-RAT,38,Sienna-Clarity COVID-19 Antigen Rapid Test Cassette,Salofa Oy,美國FDA
-RAT,39,Simoa SARS-CoV-2 N Protein Antigen Test,Quanterix Corporation,美國FDA
-RAT,40,Sofia 2 Flu + SARS Antigen FIA,Quidel Corporation,美國FDA
-RAT,41,Sofia SARS Antigen FIA,Quidel Corporation,美國FDA
-RAT,42,SPERA COVID-19 Ag Test,Xtrava Health,美國FDA
-RAT,43,Status COVID-19/Flu A&B,Princeton BioMeditech Corp.,美國FDA
-RAT,44,VITROS Immunodiagnostic Products SARS-CoV-2 Antigen Reagent Pack,"Ortho Clinical Diagnostics, Inc.",美國FDA
+RAT,1,BD Veritor At-Home COVID-19 Test,"Becton, Dickinson and Company (BD)",美國 FDA
+RAT,2,BD Veritor System for Rapid Detection of SARS-CoV-2,"Becton, Dickinson and Company (BD)",美國 FDA
+RAT,3,BD Veritor System for Rapid Detection of SARS-CoV-2 & Flu A+B,"Becton, Dickinson and Company (BD)",美國 FDA
+RAT,4,BinaxNOW COVID-19 Ag 2 Card,"Abbott Diagnostics Scarborough, Inc.",美國 FDA
+RAT,5,BinaxNOW COVID-19 Ag Card,"Abbott Diagnostics Scarborough, Inc.",美國 FDA
+RAT,6,BinaxNOW COVID-19 Ag Card Home Test,"Abbott Diagnostics Scarborough, Inc.",美國 FDA
+RAT,7,BinaxNOW COVID-19 Antigen Self Test,"Abbott Diagnostics Scarborough, Inc.",美國 FDA
+RAT,8,CareStart COVID-19 Antigen test,"Access Bio, Inc.",美國 FDA
+RAT,9,CareStart COVID-19 Antigen Home Test,"Access Bio, Inc.",美國 FDA
+RAT,10,Celltrion DiaTrust COVID-19 Ag Home Test,"Celltrion USA, Inc.",美國 FDA
+RAT,11,Celltrion DiaTrust COVID-19 Ag Rapid Test,"Celltrion USA, Inc.",美國 FDA
+RAT,12,CLINITEST Rapid COVID-19 Antigen Self-Test,Siemens Healthineers,美國 FDA
+RAT,13,Clip COVID Rapid Antigen Test,"Luminostics, Inc.",美國 FDA
+RAT,14,COVID-19 At-Home Test,"SD Biosensor, Inc.",美國 FDA
+RAT,15,Ellume COVID-19 Home Test,Ellume Limited,美國 FDA
+RAT,16,ellume.lab COVID Antigen Test,Ellume Limited,美國 FDA
+RAT,17,Flowflex COVID-19 Antigen Home Test,"ACON Laboratories, Inc",美國 FDA
+RAT,18,GenBody COVID-19 Ag,GenBody Inc.,美國 FDA
+RAT,19,iHealth COVID-19 Antigen Rapid Test,"iHealth Labs, Inc.",美國 FDA
+RAT,20,iHealth COVID-19 Antigen Rapid Test Pro,"iHealth Labs, Inc.",美國 FDA
+RAT,21,INDICAID COVID-19 Rapid Antigen Test,"PHASE Scientific International, Ltd.",美國 FDA
+RAT,22,InteliSwab COVID-19 Rapid Test,"OraSure Technologies, Inc.",美國 FDA
+RAT,23,InteliSwab COVID-19 Rapid Test Pro,"OraSure Technologies, Inc.",美國 FDA
+RAT,24,InteliSwab COVID-19 Rapid Test Rx,"OraSure Technologies, Inc.",美國 FDA
+RAT,25,LIAISON SARS-CoV-2 Ag,"DiaSorin, Inc.",美國 FDA
+RAT,26,LumiraDx SARS-CoV-2 Ag Test,LumiraDx UK Ltd.,美國 FDA
+RAT,27,MaximBio ClearDetect COVID-19 Antigen Home Test,"Maxim Biomedical, Inc.",美國 FDA
+RAT,28,Nano-Check COVID-19 Antigen Test,Nano-Ditech Corp.,美國 FDA
+RAT,29,NIDS COVID-19 Antigen Rapid Test Kit 09/24/2021,"ANP Technologies, Inc",美國 FDA
+RAT,30,Omnia SARS-CoV-2 Antigen Test,"Qorvo Biotechnologies, LLC.",美國 FDA
+RAT,31,QIAreach SARS-CoV-2 Antigen,QIAGEN GmbH,美國 FDA
+RAT,32,QuickVue At-Home COVID-19 Test,Quidel Corporation,美國 FDA
+RAT,33,QuickVue At-Home OTC COVID-19 Test,Quidel Corporation,美國 FDA
+RAT,34,QuickVue SARS Antigen Test,Quidel Corporation,美國 FDA
+RAT,35,Sampinute COVID-19 Antigen MIA,"Celltrion USA, Inc.",美國 FDA
+RAT,36,SCoV-2 Ag Detect Rapid Self-Test,InBios International Inc.,美國 FDA
+RAT,37,SCoV-2 Ag Detect Rapid Test,"InBios International, Inc.",美國 FDA
+RAT,38,Sienna-Clarity COVID-19 Antigen Rapid Test Cassette,Salofa Oy,美國 FDA
+RAT,39,Simoa SARS-CoV-2 N Protein Antigen Test,Quanterix Corporation,美國 FDA
+RAT,40,Sofia 2 Flu + SARS Antigen FIA,Quidel Corporation,美國 FDA
+RAT,41,Sofia SARS Antigen FIA,Quidel Corporation,美國 FDA
+RAT,42,SPERA COVID-19 Ag Test,Xtrava Health,美國 FDA
+RAT,43,Status COVID-19/Flu A&B,Princeton BioMeditech Corp.,美國 FDA
+RAT,44,VITROS Immunodiagnostic Products SARS-CoV-2 Antigen Reagent Pack,"Ortho Clinical Diagnostics, Inc.",美國 FDA
 RAT,45,Panbio COVID-19 Antigen Self-Test,Abbott Rapid Diagnostics,藥監局 NMPA
 RAT,46,六項呼吸道病毒核酸檢測試劑盒（恒溫擴增芯片法）,成都博奧晶芯生物科技有限公司,藥監局 NMPA
 RAT,47,新型冠狀病毒(2019-nCoV) IgM抗體檢測試劑盒(酶聯免疫法),珠海麗珠試劑股份有限公司,藥監局 NMPA

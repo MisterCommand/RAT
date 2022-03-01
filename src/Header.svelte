@@ -1,15 +1,17 @@
 <script>
 </script>
 
-<div class="container">
+<header class="container">
     <div class="row">
-        <span class="chi">快速測試</span><br>
-        <span class="eng">RAT</span>
+        <span class="chi">政府快速抗原測試名單</span><br>
+        <span class="eng">List of RAT Test Kits Recommended by the Government of HKSAR </span>
     </div>
-</div>
+    <article class="toggle"><slot></slot></article>
+</header>
 
 <style>
-    .container {
+    header {
+        background-color: var(--cds-ui-01);
         box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.20);
     }
 
@@ -17,7 +19,7 @@
         padding-left: 50px;
         padding-top: 20px;
         padding-bottom: 20px;
-        max-width: 720px;
+        max-width: 780px;
         margin: 0 auto;
     }
 
@@ -26,4 +28,11 @@
         line-height: 120%;
     }
 
+    .eng {
+        font-size: var(--cds-body-long-01-font-size, 0.875rem);
+    }
+
+    .toggle {
+        display: none
+    }
 </style>
