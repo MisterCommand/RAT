@@ -3,6 +3,7 @@
 	import Footer from './Footer.svelte';
 	import Body from './Body.svelte';
 	import Table from './Table.svelte';
+    import SvelteSeo from "svelte-seo";
     import { Theme, Toggle, Search, Checkbox, Row, Grid, Tile, Accordion, AccordionItem, OutboundLink } from "carbon-components-svelte";
 
     let search = "";
@@ -15,13 +16,39 @@
     $: theme = toggled ? "g90" : "white"
 </script>
 
+<SvelteSeo
+    title="政府快速抗原測試名單"
+    description="香港特別行政區政府建議市民購買的快速抗原測試之名單"
+    openGraph={{
+        title: '政府快速抗原測試名單',
+        description: '香港特別行政區政府建議市民購買的快速抗原測試之名單 A list of RAT kits recommended by the Government of HKSAR',
+        url: 'https://rathk.com/',
+        type: 'website',
+        images: [
+                {
+                    url: 'https://rathk.com/image/rat.jpg',
+                    width: 640,
+                    height: 427,
+                    alt: 'RAT Kit'
+                }
+            ]
+    }}
+    twitter={{
+        card: "summary",
+        title: "政府快速抗原測試名單",
+        description: "香港特別行政區政府建議市民購買的快速抗原測試之名單 A list of RAT kits recommended by the Government of HKSAR",
+        image: "https://www.example.com/images/cover.jpg",
+        imageAlt: "RAT Kit",
+    }}
+/>
+
 <Theme bind:theme persist persistKey="__theme" />
 <Header><Toggle bind:toggled /></Header>
 <Body>
     <article class="tile">
         <Tile>
             <p>
-                本網頁集合香港特區政府建議市民購買的快速抗原測試之名單，包括香港特別行政區衞生署（衛生署）、國家藥品監督管理局（藥監局）、歐盟、美國食品及藥物管理局（美國 FDA）的認證名單。購買快速抗原測試時，應確保產品爲正貨並已取得認受性高的第三方機構認證。
+                本網頁集合香港特別行政區政府建議市民購買的快速抗原測試之名單，包括香港特別行政區衞生署（衛生署）、國家藥品監督管理局（藥監局）、歐盟、美國食品及藥物管理局（美國 FDA）的認證名單。購買快速抗原測試時，應確保產品爲正貨並已取得認受性高的第三方機構認證。
                 This website contains a list of RAT (Rapid Antigen Test) kits recommended by the Government of the Hong Kong Special Administrative Region, including the Department of Health, Hong Kong SAR (DOH), National Medical Products Administration (NMPA), European Union (EU), and U.S. Food and Drug Administration (FDA).
             <OutboundLink href="https://www.coronavirus.gov.hk/rat/chi/rat.html">政府有關快速抗原測試的網頁 Official RAT Information</OutboundLink><br>
             </p>
@@ -70,6 +97,7 @@
 </article>
 
 <style>
+
     p {
         text-align: left;
         white-space: pre-line;
@@ -80,6 +108,7 @@
     }
 
     .tile {
+        position: relative;
         padding-bottom: 1rem;
     }
 
@@ -91,6 +120,8 @@
     }
 
     .footer {
+        width: 100%;
+        position: absolute;
         margin-top: 5rem;
     }
 </style>
