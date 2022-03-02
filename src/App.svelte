@@ -5,6 +5,7 @@
 	import Table from './Table.svelte';
     import SvelteSeo from "svelte-seo";
     import { Theme, Toggle, Search, Checkbox, Row, Grid, Tile, Accordion, AccordionItem, OutboundLink } from "carbon-components-svelte";
+    import { Email, HackerNews, Reddit, LinkedIn, Pinterest, Telegram, Tumblr, Vk, WhatsApp, Xing, Facebook, Twitter, Line } from 'svelte-share-buttons-component';
 
     let search = "";
     let doh = true;
@@ -14,13 +15,17 @@
 
     let toggled = false;
     $: theme = toggled ? "g90" : "white"
+
+    const url = 'https://rathk.com/';
+	const title = '政府快速抗原測試名單 | 查詢中國香港美國FDA歐盟通用認證';
+	const desc = '香港特別行政區政府建議市民購買的快速抗原測試之名單 A list of RAT kits recommended by the Government of HKSA';
 </script>
 
 <SvelteSeo
-    title="政府快速抗原測試名單 | 整合政府建議使用的快速測試套裝"
-    description="香港特別行政區政府建議市民購買的快速抗原測試之名單"
+    title="政府快速抗原測試名單 | 查詢中國香港美國FDA歐盟通用認證"
+    description="香港特別行政區政府建議市民購買的快速抗原測試之名單 A list of RAT kits recommended by the Government of HKSAR"
     openGraph={{
-        title: '政府快速抗原測試名單 | 整合政府建議使用的快速測試套裝',
+        title: '政府快速抗原測試名單 | 查詢中國香港美國FDA歐盟通用認證',
         description: '香港特別行政區政府建議市民購買的快速抗原測試之名單 A list of RAT kits recommended by the Government of HKSAR',
         url: 'https://rathk.com/',
         type: 'website',
@@ -35,7 +40,7 @@
     }}
     twitter={{
         card: "summary_large_image",
-        title: "政府快速抗原測試名單 | 整合政府建議使用的快速測試套裝",
+        title: "政府快速抗原測試名單 | 查詢中國香港美國FDA歐盟通用認證",
         description: "香港特別行政區政府建議市民購買的快速抗原測試之名單 A list of RAT kits recommended by the Government of HKSAR",
         image: "https://rathk.com/image/rat.jpg",
         imageAlt: "RAT Kit",
@@ -96,6 +101,14 @@
             </AccordionItem>
         </Accordion>
     </article>
+    <article class="social">
+        <Email subject="{title}" body="{desc} {url}" />
+        <Telegram class="share-button" text={title} {url} />
+        <WhatsApp class="share-button" text="{title} {url}" />
+        <Facebook class="share-button" quote="{title}" {url} />
+        <Twitter class="share-button" text="{title}" {url} />
+        <Line class="share-button" {url} />
+    </article>
 </Body>
 <article class="footer">
     <Footer />
@@ -125,6 +138,10 @@
     }
 
     .accordion {
+        padding-top: 1rem;
+    }
+
+    .social {
         padding-top: 1rem;
     }
 
