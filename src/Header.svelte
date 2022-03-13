@@ -3,8 +3,8 @@
 
 <header class="container">
     <div class="row">
-        <span class="chi">政府快速抗原測試名單</span><br>
-        <span class="eng">List of RAT Test Kits Recommended by the Government of HKSAR </span>
+        <span class="chi">快速抗原測試認證名單</span><br>
+        <span class="eng">List of Approved RAT Test Kits</span>
     </div>
     <article class="toggle"><slot></slot></article>
 </header>

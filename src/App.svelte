@@ -17,16 +17,16 @@
     $: theme = toggled ? "g90" : "white"
 
     const url = 'https://rathk.com/';
-	const title = '政府快速抗原測試名單 | 查詢中國香港美國FDA歐盟通用認證';
-	const desc = '香港特別行政區政府建議市民購買的快速抗原測試之名單 A list of RAT kits recommended by the Government of HKSA';
+	const title = '快速抗原測試認證名單 | 搜尋中國香港美國FDA歐盟通用認證產品';
+	const desc = '特區政府建議購買的快速抗原測試 搜尋獲認證產品 List of Recommended and Approved RAT Test Kits';
 </script>
 
 <SvelteSeo
-    title="政府快速抗原測試名單 | 查詢中國香港美國FDA歐盟通用認證"
-    description="香港特別行政區政府建議市民購買的快速抗原測試之名單 A list of RAT kits recommended by the Government of HKSAR"
+    title="快速抗原測試認證名單 | 搜尋中國香港美國FDA歐盟通用認證產品"
+    description="特區政府建議購買的快速抗原測試 搜尋獲認證產品 List of Recommended and Approved RAT Test Kits"
     openGraph={{
-        title: '政府快速抗原測試名單 | 查詢中國香港美國FDA歐盟通用認證',
-        description: '香港特別行政區政府建議市民購買的快速抗原測試之名單 A list of RAT kits recommended by the Government of HKSAR',
+        title: '快速抗原測試認證名單 | 搜尋中國香港美國FDA歐盟通用認證產品',
+        description: '特區政府建議購買的快速抗原測試 搜尋獲認證產品 List of Recommended and Approved RAT Test Kits',
         url: 'https://rathk.com/',
         type: 'website',
         images: [
@@ -40,8 +40,8 @@
     }}
     twitter={{
         card: "summary_large_image",
-        title: "政府快速抗原測試名單 | 查詢中國香港美國FDA歐盟通用認證",
-        description: "香港特別行政區政府建議市民購買的快速抗原測試之名單 A list of RAT kits recommended by the Government of HKSAR",
+        title: "快速抗原測試認證名單 | 搜尋中國香港美國FDA歐盟通用認證產品",
+        description: "特區政府建議購買的快速抗原測試 搜尋獲認證產品 List of Recommended and Approved RAT Test Kits",
         image: "https://rathk.com/image/rat.jpg",
         imageAlt: "RAT Kit",
     }}
@@ -50,10 +50,10 @@
 <Theme bind:theme persist persistKey="__theme" />
 <Header><Toggle bind:toggled /></Header>
 <Body>
-    <p>部分品牌或產品只有中/英文名稱，請輸入包裝上的中/英文名稱作查詢
-        Some manufacture/product names are available in Chinese or English only</p>
+    <p>部分品牌或產品只有中/英文名稱，請輸入包裝上的中/英文名稱作搜尋
+        Some manufacturer/product names are available in Chinese or English only</p>
     <article class="search">
-        <Search placeholder="搜索 Search" bind:value={search} />
+        <Search placeholder="搜尋 Search" bind:value={search} />
     </article>
     <Grid>
         <Row>
@@ -71,8 +71,7 @@
         <Tile>
             <p>
                 本網頁集合香港特別行政區政府建議市民購買的快速抗原測試之名單，包括香港特別行政區衞生署（衛生署）、國家藥品監督管理局（藥監局）、歐盟、美國食品及藥物管理局（美國 FDA）的認證名單。購買快速抗原測試時，應確保產品爲正貨並已取得認受性高的第三方機構認證。
-                This website contains a list of RAT (Rapid Antigen Test) kits recommended by the Government of the Hong Kong Special Administrative Region, including the Department of Health, Hong Kong SAR (DOH), National Medical Products Administration (NMPA), European Union (EU), and U.S. Food and Drug Administration (FDA).
-            <OutboundLink href="https://www.coronavirus.gov.hk/rat/chi/rat.html">政府有關快速抗原測試的網頁 Official RAT Information</OutboundLink><br>
+                This is a website which contains a list of RAT (Rapid Antigen Test) kits recommended by the Government of the Hong Kong Special Administrative Region. It compiles lists of approved RAT kits by organizations including the Department of Health, Hong Kong SAR (DOH), National Medical Products Administration (NMPA), European Union (EU), and U.S. Food and Drug Administration (FDA). <OutboundLink href="https://www.coronavirus.gov.hk/rat/chi/rat.html">政府有關快速抗原測試的網頁 Official RAT Information</OutboundLink><br>
             </p>
         </Tile>
     </article>
